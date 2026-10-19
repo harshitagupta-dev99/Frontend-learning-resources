@@ -26,3 +26,4 @@ A personal collection of useful resources, documentation, articles, videos, and 
   - [explanation 2 YOUTUBE](https://www.youtube.com/watch?v=Tnp3yX9Z93Q)
 - [Inner workings of browser by Arindam](https://arindam1729.hashnode.dev/the-inner-workings-of-web-browsers)
 - [Web Performance Fundamentals MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Fundamentals)
+- [What is web worker + How to implement it YOUTUBE](https://www.youtube.com/watch?v=Gcp7triXFjg)

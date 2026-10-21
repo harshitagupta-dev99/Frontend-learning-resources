@@ -1,6 +1,7 @@
 # Frontend-learning-resources
 A personal collection of useful resources, documentation, articles, videos, and practice problems for frontend development and interview preparation.
 
+### Practice common interview ques @ [GFE 75](https://www.greatfrontend.com/interviews/gfe75)
 ### CSS
 - [Common css mistakes](https://www.greatfrontend.com/blog/top-css-mistakes-made-by-front-end-engineers)
 - [Revising CSS for interviews](https://www.greatfrontend.com/blog/css-interview-questions)

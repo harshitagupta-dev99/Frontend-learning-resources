@@ -1,6 +1,10 @@
 # Frontend-learning-resources
 A personal collection of useful resources, documentation, articles, videos, and practice problems for frontend development and interview preparation.
 
+### CSS
+- [Common css mistakes](https://www.greatfrontend.com/blog/top-css-mistakes-made-by-front-end-engineers)
+- [Revising CSS for interviews](https://www.greatfrontend.com/blog/css-interview-questions)
+  
 ### JavaScript Concepts
 - [What is oops - TAPA](https://www.youtube.com/watch?v=oRQOiyO-kHg&list=PLIJrr73KDmRw2Fwwjt6cPC_tk5vcSICCu&index=29)
 

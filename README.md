@@ -2,6 +2,9 @@
 A personal collection of useful resources, documentation, articles, videos, and practice problems for frontend development and interview preparation.
 
 ### Practice common interview ques @ [GFE 75](https://www.greatfrontend.com/interviews/gfe75)
+- [Top 5 JS interview ques](https://www.greatfrontend.com/blog/most-important-javascript-questions-front-end-interviews)
+- [Top 5 UI coding interview ques](https://www.greatfrontend.com/blog/most-important-user-interface-questions-front-end-interviews)
+
 ### CSS
 - [Common css mistakes](https://www.greatfrontend.com/blog/top-css-mistakes-made-by-front-end-engineers)
 - [Revising CSS for interviews](https://www.greatfrontend.com/blog/css-interview-questions)
@@ -30,6 +33,11 @@ A personal collection of useful resources, documentation, articles, videos, and 
 - CRP
   - [explanation 1 YOUTUBE](https://www.youtube.com/watch?v=pD8jf1dXL0A)
   - [explanation 2 YOUTUBE](https://www.youtube.com/watch?v=Tnp3yX9Z93Q)
-- [Inner workings of browser by Arindam](https://arindam1729.hashnode.dev/the-inner-workings-of-web-browsers)
+  - [Inner workings of browser by Arindam](https://arindam1729.hashnode.dev/the-inner-workings-of-web-browsers)
+
+### Web Performance - Master Guide @ [WEB.DEV](https://web.dev/learn/performance)
 - [Web Performance Fundamentals MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Fundamentals)
 - [What is web worker + How to implement it YOUTUBE](https://www.youtube.com/watch?v=Gcp7triXFjg)
+
+### Accessibility - Master Guide @ [WEB.DEV](https://web.dev/learn/accessibility)
+- For practice, apply in JS & React projects you are creating along the way

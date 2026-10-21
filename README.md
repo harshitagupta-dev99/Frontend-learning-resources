@@ -4,6 +4,7 @@ A personal collection of useful resources, documentation, articles, videos, and 
 ### CSS
 - [Common css mistakes](https://www.greatfrontend.com/blog/top-css-mistakes-made-by-front-end-engineers)
 - [Revising CSS for interviews](https://www.greatfrontend.com/blog/css-interview-questions)
+- [Pizza pamphlet - tailwind css practice](https://tailwindcss.com/docs/styling-with-utility-classes)
   
 ### JavaScript Concepts
 - [What is oops - TAPA](https://www.youtube.com/watch?v=oRQOiyO-kHg&list=PLIJrr73KDmRw2Fwwjt6cPC_tk5vcSICCu&index=29)

@@ -22,3 +22,5 @@ Happenings : Periods, Delhi travel, concert
 ### 3. Accessibility — learn from web.dev
 - Start with the fundamentals from web.dev
 - Try applying each concept to your pizza pamphlet or a mini project instead of learning it in isolation.
+
+stuff left for future : which leaves us with react, next js , typescript, testing , system design & performance for future 

@@ -6,11 +6,17 @@ A personal collection of useful resources, documentation, articles, videos, and 
 - [Top 5 UI coding interview ques](https://www.greatfrontend.com/blog/most-important-user-interface-questions-front-end-interviews)
 
 ### CSS
+- [High Level Summary CSS](https://www.youtube.com/watch?v=tfzGsCxutWk)
+- [CSS layout explained simply](https://www.youtube.com/watch?v=i1FeOOhNnwU)
 - [Common css mistakes](https://www.greatfrontend.com/blog/top-css-mistakes-made-by-front-end-engineers)
-- [Revising CSS for interviews](https://www.greatfrontend.com/blog/css-interview-questions)
+- [Revising CSS for interviews](https://www.greatfrontend.com/blog/css-interview-questions) - only ques given
 - [Pizza pamphlet - tailwind css practice](https://tailwindcss.com/docs/styling-with-utility-classes)
+- [Flexbox Practice](https://flexboxfroggy.com/)
+- [Grid Practice](https://cssgridgarden.com/)
+- [My notes : Sakura story](https://docs.google.com/document/d/1KU7rfgZ89Nt9AdF2jdPspco5j2MMm6mWJMeKcn4sSpg/edit?tab=t.0)
   
 ### JavaScript Concepts
+- [High level summary JS](https://www.youtube.com/watch?v=7_k1SUNIyfY)
 - [What is oops - TAPA](https://www.youtube.com/watch?v=oRQOiyO-kHg&list=PLIJrr73KDmRw2Fwwjt6cPC_tk5vcSICCu&index=29)
 
 ### Debugging JS code 
